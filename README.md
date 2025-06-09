@@ -3,7 +3,6 @@
   ```
   docker-compose up -d
   ```
--
 - Stop dan hapus container, tapi data volume tetap ada:
   ```
   docker-compose down
@@ -16,3 +15,5 @@
   ```
   docker ps
   ```
+
+----------------
