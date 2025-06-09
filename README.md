@@ -3,6 +3,10 @@
   ```
   docker-compose up -d
   ```
+- Menjalankan docker
+  ```
+  docker-compose start
+  ```
 - Stop dan hapus container, tapi data volume tetap ada:
   ```
   docker-compose down
