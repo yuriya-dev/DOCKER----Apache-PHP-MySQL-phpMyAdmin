@@ -15,9 +15,12 @@
   ```
   docker-compose stop
   ```
--  lihat container yang sedang berjalan:
+- lihat container yang sedang berjalan:
   ```
   docker ps
   ```
-
+- Menjalankan MySQL di container Docker
+  ```
+  docker exec -it your_container_id mysql -u root -p
+  ```
 ----------------
