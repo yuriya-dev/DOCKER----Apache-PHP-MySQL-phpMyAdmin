@@ -1,9 +1,9 @@
 # docker---Apache-PHP-MySQL-phpMyAdmin
-- Menjalankan pertama kali:
+- Menjalankan semua services container:
   ```
   docker-compose up -d
   ```
-- Menjalankan docker
+- Menjalankan container yang sudah ada dan pernah dibuat:
   ```
   docker-compose start
   ```
