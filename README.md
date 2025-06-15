@@ -19,7 +19,7 @@
   ```
   docker ps
   ```
-- Menjalankan MySQL di container Docker
+- Menjalankan termial MySQL di container Docker
   ```
   docker exec -it your_container_id mysql -u root -p
   ```
