@@ -1,7 +1,7 @@
 # docker---Apache-PHP-MySQL-phpMyAdmin
 - Membuat container:
   ```
-  docker-compose up -d
+  ocker-compose up -d --build
   ```
 - Menjalankan container yang sudah dibuat:
   ```
